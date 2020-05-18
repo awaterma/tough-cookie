@@ -92,6 +92,7 @@
     "node": ">=6"
   },
   "devDependencies": {
+    "@types/check-types": "^7.3.1",
     "async": "^2.6.2",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.2.0",
@@ -102,6 +103,7 @@
     "vows": "^0.8.2"
   },
   "dependencies": {
+    "check-types": "^11.1.2",
     "psl": "^1.1.33",
     "punycode": "^2.1.1",
     "universalify": "^0.1.2"
