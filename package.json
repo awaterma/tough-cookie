@@ -97,7 +97,7 @@
     "eslint-config-prettier": "^4.2.0",
     "eslint-plugin-prettier": "^3.0.1",
     "genversion": "^2.1.0",
-    "nyc": "^14.0.0",
+    "nyc": "^15.1.0",
     "prettier": "^1.17.0",
     "vows": "^0.8.2"
   },
